@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#contenedor {
+	width: 1024px;
+	background: #bdeded;
+	border: 2px dashed #66c9b5 ; 
+	margin-top: auto;
+	margin-right: auto;
+	margin-left:  auto;
+	margin-bottom: auto;
+}
+
+#cabeza {
+	height: 300px;
+	border: 2px  dotted #66c9b5;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+#menu {
+	height:50px;
+	border: 2px dotted #66c9b5;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#columna1 {
+	width: 982px;
+	height: 1350px;
+	border: 2px dotted #66c9b5;
+	margin: 20px;
+	float: left;
+	text-align: center;
+}
+.dentro{
+	clear: both;
+}
